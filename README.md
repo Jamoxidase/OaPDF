@@ -353,13 +353,9 @@ For errors:
 ## Future Enhancements
 
 - Add more scholarly sources (CORE, Semantic Scholar, etc.)
-- Implement PDF downloading and text extraction
 - Add persistent caching with Redis or similar
 - Implement asynchronous processing for parallel API calls
-- Add authentication and user-specific rate limiting
-- Implement citation networks and recommendation algorithms
-- Add support for metadata extraction from PDFs
-
+- Implement citation networks 
 ## License
 
 MIT
