@@ -27,11 +27,11 @@ The SCRS is designed to make it easy to programmatically access scientific infor
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/scholarly-retrieval.git
-cd scholarly-retrieval
+git clone https://github.com/Jamoxidase/SCRS_OaPDF
+cd SCRS_OaPDF
 
 # Install dependencies
-pip install requests
+pip install requests tenacity
 ```
 
 ## Configuration
